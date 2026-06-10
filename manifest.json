@@ -1,0 +1,17 @@
+{
+  "name": "Link.bond — Catchup copy",
+  "short_name": "Link.bond",
+  "description": "Quick copy for Catchup / wMNST links and messages",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0f0f12",
+  "theme_color": "#3b5bdb",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
